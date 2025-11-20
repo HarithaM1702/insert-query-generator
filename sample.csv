@@ -1,0 +1,4 @@
+claim_num,line_num,type_of_bill,member_id,amount
+MHNET001,1,111,MBR1001,500
+MHNET002,2,111,MBR1002,750
+MHNET003,3,111,MBR1003,1200
